@@ -3,11 +3,6 @@
 CSCD 604: DISTRIBUTED SYSTEM
 
 COURSE WORK 2  - Distributed Auction System
-
-## Group 8 Contributors
-
-| Student                 | ID Number                 |
-| :---------------------- | :------------------------ |
                 |
 | TAMEKLOE, PASCAL A.     |                  |
 
